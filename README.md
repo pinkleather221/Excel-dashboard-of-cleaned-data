@@ -1,5 +1,6 @@
 Jumia Product Performance Analysis Dashboard
 Project Overview
+https://dev.to/nelly_mogere_194bac0cb2ba/how-excel-is-used-in-real-world-data-analysis-g1
 
 This project focuses on analyzing product performance data from Jumia and presenting actionable insights through an interactive Excel dashboard. The analysis explores the relationship between product pricing, discounts, customer reviews, and ratings to help identify trends, popular products, and areas for improvement.
 
